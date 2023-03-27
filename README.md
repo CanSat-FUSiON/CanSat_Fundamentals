@@ -1,0 +1,2 @@
+# CanSat_Fundamentals
+FUSiONの新規メンバーに対する新人教育資料
