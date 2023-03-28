@@ -9,3 +9,7 @@ VSCode拡張機能： https://qiita.com/84zume/items/1e6c720caba9898f5af2
 
 マークダウン記法：
 https://backlog.com/ja/blog/how-to-write-markdown/
+
+---
+
+FUSiON以外の方が編集してくださる場合は、AssigneeにMayaAbeまたはKyoheiShiotaを割り振ってください。
