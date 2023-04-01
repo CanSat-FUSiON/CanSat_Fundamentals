@@ -12,3 +12,7 @@ https://backlog.com/ja/blog/how-to-write-markdown/
 
 マークダウンチートシート：
 https://atmarksharp.v01.jp/posts/markdown-cheat-sheet.html
+
+---
+
+FUSiON以外の方が編集してくださる場合は、AssigneeにMayaAbeまたはKyoheiShiotaを割り振ってください。
