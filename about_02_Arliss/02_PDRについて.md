@@ -1,2 +1,2 @@
 # PDRについて
-PDRとは Preliminary Design lopReview の略で、日本語では基本設計審査のことを指します。
+PDRとは Preliminary Design Review の略で、日本語では基本設計審査のことを指します。PDRでは、各系でBM(ブレッドボードモデル)まで状態のものを完成させ、製作過程で出てきた課題と解決策を提示し、意見を求める審査会です。
