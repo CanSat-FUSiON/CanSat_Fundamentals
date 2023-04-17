@@ -52,7 +52,7 @@
 それぞれの講座を通して必要になる部品は以下の通りです。
 ||初使用回|部品名|販売リンク|
 |----|-----|----|----|
-|![](https://m.media-amazon.com/images/I/51Olo38hQtL._AC_SX679_.jpg)|0|はんだこて|[こちら](https://www.amazon.co.jp/%E7%99%BD%E5%85%89-HAKKO-FX600-02-%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E5%BC%8F%E6%B8%A9%E5%BA%A6%E5%88%B6%E5%BE%A1%E3%81%AF%E3%82%93%E3%81%A0%E3%81%93%E3%81%A6-FX600/dp/B006MQD7M4/ref=sr_1_1?crid=2ESSF447QFZTB&keywords=hakko+%E3%81%AF%E3%82%93%E3%81%A0%E3%81%93%E3%81%A6+fx600-02&qid=1681710452&sprefix=hakko+%E3%81%AF%E3%82%93%E3%81%A0%E3%81%93%E3%81%A6%2Caps%2C381&sr=8-1)(他のも可)|
+|![](https://m.media-amazon.com/images/I/51Olo38hQtL._AC_SX679_.jpg)|0|はんだこて|[こちら](https://www.amazon.co.jp/dp/B006MQD7M4/ref=sr_1_1?crid=2ESSF447QFZTB&keywords=hakko+%E3%81%AF%E3%82%93%E3%81%A0%E3%81%93%E3%81%A6+fx600-02&qid=1681710452&sprefix=hakko+%E3%81%AF%E3%82%93%E3%81%A0%E3%81%93%E3%81%A6%2Caps%2C381&sr=8-1)(他のも可)|
 |![](https://akizukidenshi.com/img/goods/C/T-02594.jpg)|0|はんだ|[こちら](https://akizukidenshi.com/catalog/g/gT-02594/)(他のも可)|
 |![](https://akizukidenshi.com/img/goods/C/P-05294.jpg)|0|ブレッドボード|[こちら](https://akizukidenshi.com/catalog/g/gP-05294/)|
 |![](https://akizukidenshi.com/img/goods/2/C-15869.jpg)|0|ジャンパワイヤ|[こちら](https://akizukidenshi.com/catalog/g/gC-15869/)|
