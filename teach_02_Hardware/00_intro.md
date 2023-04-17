@@ -61,5 +61,7 @@
 |![](https://akizukidenshi.com/img/goods/C/K-17542.jpg)|0|マイコン|[こちら](https://akizukidenshi.com/catalog/g/gK-17542/)|
 |![](https://akizukidenshi.com/img/goods/4/I-02414.JPG)|1|MOSFET|[こちら](https://akizukidenshi.com/catalog/g/gI-02414/)|
 |![](https://akizukidenshi.com/img/goods/L/P-09169.jpg)|1|モーター|[こちら](https://akizukidenshi.com/catalog/g/gP-09169/)|
+|![](https://akizukidenshi.com/img/goods/C/P-00452.png)|1|バッテリースナップ|[こちら](https://akizukidenshi.com/catalog/g/gP-00452/)|
+|![](https://akizukidenshi.com/img/goods/C/B-03257.jpg)|1|9Vバッテリー|[こちら](https://akizukidenshi.com/catalog/g/gB-03257/)(100均のでもいい)|
 |![](https://akizukidenshi.com/img/goods/C/I-02228.jpg)|1|整流ダイオード|[こちら](https://akizukidenshi.com/catalog/g/gI-02228/)|
 |![](https://akizukidenshi.com/img/goods/C/K-09421.jpg)|3|温湿度気圧センサ|[こちら](https://akizukidenshi.com/catalog/g/gK-09421/)|
