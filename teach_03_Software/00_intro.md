@@ -4,6 +4,7 @@
 
 ![ARLISS_CanSat](https://assets.st-note.com/production/uploads/images/95049455/rectangle_large_type_2_354c9d59d9a16e533e08f8be1d0e34b7.jpeg?width=800)
 
+<br>
 CanSat では、完成までに 3 つの要素に分けて開発が行われます。それはこのレポジトリのフォルダ名にもなっている、
 
 1. **Mechanic**
@@ -30,4 +31,5 @@ CanSat では、完成までに 3 つの要素に分けて開発が行われま�
 
 ![pythonロゴ](https://www.python.org/static/img/python-logo@2x.png)
 
+<br>
 これらのファイルには、オンボードコンピュータとして Raspberry Pi を想定しているため、サンプルコードはすべて python で書いています。もし別の言語で開発をしている場合は、あまり参考にならないかもしれませんが、メソッドだけでも参考にしてもらえるとうれしいです。
