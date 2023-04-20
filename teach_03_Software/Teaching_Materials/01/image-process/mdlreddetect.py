@@ -4,15 +4,18 @@ import cv2
 from time import sleep
 from PIL import Image
 import matplotlib.pyplot as plt
+import os 
 
+
+abspath = os.path.dirname(__file__)
 
 def main(sampleimage):
     image = cv2.imread(sampleimage)
 
-    image_output(red_masks_get(image), 'images/sample_red.jpg')
-    image_output(gray_get(image), 'images/sample_gray.jpg')
-    image_output(binary_get(image), 'images/sample_binary.jpg')
-    center_output(image, 'images/sample_center.jpg', center_get(image))
+    image_output(red_masks_get(image), str(abspath)+'/images/sample_red.jpg')
+    image_output(gray_get(image), str(abspath)+'/images/sample_gray.jpg')
+    image_output(binary_get(image), str(abspath)+'/images/sample_binary.jpg')
+    center_output(image, str(abspath)+'/images/sample_center.jpg', center_get(image))
 
     print('Size:', size_get(image))
     print('Occupancy:', occ_get(image)*100, '%')
