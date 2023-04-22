@@ -1,18 +1,8 @@
 # CanSat_Fundamentals
 ## FUSiONの新規メンバーに対する新人教育資料
 ___
+FUSiON部内で使っていた新人研修資料を公開しています。
+各学生団体や社内研修などでお役立てください。
 
-READMEも時間を見つけて書きます……。
-マークダウン(.md)形式中心になると思うので、記法がまとまったサイトをおいておきます。
-
-VSCode拡張機能： https://qiita.com/84zume/items/1e6c720caba9898f5af2
-
-マークダウン記法：
-https://backlog.com/ja/blog/how-to-write-markdown/
-
-マークダウンチートシート：
-https://atmarksharp.v01.jp/posts/markdown-cheat-sheet.html
-
----
-
-FUSiON以外の方が編集してくださる場合は、AssigneeにMayaAbeまたはKyoheiShiotaを割り振ってください。
+教材をよりよいものにするため、随時更新を行っていきますが、アドバイスや指摘点あればぜひアップデートにご協力ください。
+___
